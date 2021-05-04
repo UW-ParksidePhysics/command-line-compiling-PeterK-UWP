@@ -1,4 +1,5 @@
 // this complies files, for c= files, after getting the hypotenuse and side lengths
+//Modified by Peter Kveton, 2021-05-04 
 # include <stdio.h>
 # include <math.h>
 # include <stdlib.h>
